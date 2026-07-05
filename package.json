@@ -1,0 +1,15 @@
+{
+  "name": "zlice",
+  "version": "1.0.0",
+  "description": "A webcam hand-tracking fruit-slicing game built with vanilla JS, Canvas2D, and MediaPipe Tasks Vision.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "vitest": "^4.1.9"
+  }
+}
