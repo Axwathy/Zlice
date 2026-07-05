@@ -1,4 +1,4 @@
-# Zlice 🍉
+# Zlice 
 
 A webcam-controlled fruit-slicing game. Point your index finger at the camera and slice falling fruit in the air — no mouse, no keyboard, just your hand. Built with vanilla JavaScript, Canvas2D, and real-time hand tracking via [MediaPipe Tasks Vision](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker).
 
