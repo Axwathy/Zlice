@@ -4,7 +4,7 @@ A webcam-controlled fruit-slicing game. Point your index finger at the camera an
 
 **[Live demo →](https://zlice.netlify.app/)**
 
-![Zlice gameplay](#) *(add a gameplay GIF here — see "Contributing / TODO" below)*
+
 
 ---
 
