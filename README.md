@@ -10,7 +10,7 @@ Zlice is a static web game where the player slices falling fruit by moving their
 
 The project is designed as a lightweight, client-side game with no backend service. Webcam video is processed locally by the browser, while the game loop handles fruit spawning, slicing detection, scoring, combos, bombs, and end-of-round results.
 
-Live demo:https://zlice.netlify.app/
+Live demo:(https://zlice.netlify.app/)
 
 ---
 
@@ -31,18 +31,13 @@ Live demo:https://zlice.netlify.app/
 - Unit tests for pure game logic, entity physics, spawning constraints, tracking math, and slice detection.
 
 ---
-
 ## Screenshots
 
-Add screenshots to `docs/images/` and update these paths as needed.
+![Start Screen](docs/images/startscreen.png.png)
 
-C:\Users\admin\OneDrive\Desktop\appflow\docs\images/startscreen.png
+![Gameplay](docs/images/gameplay.png.png)
 
-![Gameplay](docs/images/gameplay.png)
-
-![Game Over Screen](docs/images/game-over.png)
-
----
+![Game Over Screen](docs/images/game-over.png.png)
 
 ## Project Architecture
 
