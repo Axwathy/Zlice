@@ -39,6 +39,7 @@ Live demo:(https://zlice.netlify.app/)
 
 ![Game Over Screen](docs/images/game-over.png.png)
 
+---
 ## Project Architecture
 
 Zlice runs entirely in the browser as static files. The main entry point initializes MediaPipe, requests camera access, starts the game loop, and coordinates the tracker, game state, renderer, and UI effects.
