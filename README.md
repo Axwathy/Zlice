@@ -221,4 +221,6 @@ Possible future improvements based on the current implementation:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Aswathy. See [LICENSE](LICENSE) for details.
