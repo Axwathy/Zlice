@@ -36,7 +36,7 @@ Live demo:https://zlice.netlify.app/
 
 Add screenshots to `docs/images/` and update these paths as needed.
 
-![Start Screen](docs/images/start-screen.png)
+![Start Screen](C:\Users\admin\OneDrive\Documents\images\startscreen.png)
 
 ![Gameplay](docs/images/gameplay.png)
 
